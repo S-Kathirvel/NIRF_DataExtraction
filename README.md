@@ -51,6 +51,7 @@ This repository contains Python scripts for extracting data from images related 
 
 - **Cropper.py:**
   - Automatically crops images to contain only the required data, enhancing extraction efficiency.
+      ![Cropped Image](c_IR-E-C-1262.png)
 
 - **Data_extract.py:**
   - Extracts data using the OCR API, specifically designed to extract specific information from the cropped images, storing the results in a .csv file.
@@ -58,5 +59,4 @@ This repository contains Python scripts for extracting data from images related 
 - **Raw_HTML.txt:**
   - Contains a snippet of the HTML div element where the images are located. The link_extract code extracts image links from this file.
 
-![Cropped Image](c_IR-E-C-1262.png)
 
