@@ -2,11 +2,11 @@
 
 This repository contains Python scripts for extracting data from images related to the National Institutional Ranking Framework (NIRF). The project utilizes various Python libraries for web scraping, image processing, and data extraction. 
 
-![Downloaded Image](F:\NIRF\Images\2022_Engineering\IR-E-C-1262.png)
+![Downloaded Image](IR-E-C-1262.png)
 
-![Cropped Image](F:\NIRF\Cropped_Images\2022-1\c_IR-E-C-1262.png)
+![Cropped Image](c_IR-E-C-1262.png)
 
-Data Extracted by the Code:
+****Data Extracted by the Code:****
 
 | S NO | InstituteID | SS   | FSR  | FQE  | FRU  | PU   | QP   | IPR  | FPPP | GPH  | GUE  | MS   | GPHD | RD   | WD   | ESCS | PCS  | PR   | TLR  | RPC  | GO   | OI   | PERCEPTION | CITY      | STATE     | SCORE | RANK |
 |------|-------------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------------|-----------|-----------|-------|------|
@@ -58,5 +58,5 @@ Data Extracted by the Code:
 - **Raw_HTML.txt:**
   - Contains a snippet of the HTML div element where the images are located. The link_extract code extracts image links from this file.
 
-![Cropped Image](F:\NIRF\Cropped_Images\2022-1\c_IR-E-C-1262.png)
+![Cropped Image](c_IR-E-C-1262.png)
 
