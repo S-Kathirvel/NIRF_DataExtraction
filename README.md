@@ -4,6 +4,7 @@ This repository contains Python scripts for extracting data from images related 
 
 ![Downloaded Image](IR-E-C-1262.png)
 
+****Cropped Image****
 ![Cropped Image](c_IR-E-C-1262.png)
 
 ****Data Extracted by the Code:****
